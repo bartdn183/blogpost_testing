@@ -1,0 +1,15 @@
+RUBY							||						JAVASCRIPT
+
+DATATYPES								DATATYPES
+VARIABLES								VARIABLES
+CONTROL FLOW							CONTROL FLOW (IF ELSE == VS ===)
+LOOPS									LOOPS(FOR EACH, WHILE)
+ARRAYS									ARRAYS
+HASHES									OBJECT
+METHODS									FUNCTIONS
+
+x = 1									var x = 1;
+z = true								var z = true;
+
+7 + 7 + "7".to_i						7 + 7 + "7"; => 						
+5.to_s + " Dollars"						5 + " Dollars" 
